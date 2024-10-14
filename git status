@@ -1,0 +1,14 @@
+warning: in the working copy of 'src/App.js', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/src/App.js b/src/App.js[m
+[1mindex 3784575..818eb80 100644[m
+[1m--- a/src/App.js[m
+[1m+++ b/src/App.js[m
+[36m@@ -7,7 +7,7 @@[m [mfunction App() {[m
+       <header className="App-header">[m
+         <img src={logo} className="App-logo" alt="logo" />[m
+         <p>[m
+[31m-          Edit <code>src/App.js</code> and save to reload.[m
+[32m+[m[32m          Hi Hello! How are you?[m
+         </p>[m
+         <a[m
+           className="App-link"[m
